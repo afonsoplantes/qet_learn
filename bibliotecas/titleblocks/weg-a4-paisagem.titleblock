@@ -1,0 +1,224 @@
+<titleblocktemplate name="weg-a4-paisagem">
+    <information></information>
+    <logos/>
+    <grid cols="t13%;t4%;r100%;t3%;t3%;t3%;t10%;t10%;t3%;t4%;t4%;t10%;t4%;" rows="13;13;13;13;13;13;">
+        <field hadjust="true" col="0" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="0" rowspan="5">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="1" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="0">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="2" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="0">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="3" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="0">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="4" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="0">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="5" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="0">
+            <value/>
+            <label/>
+        </field>
+        <logo col="7" name="Cliente" row="0" rowspan="5" resource="Sem logotipo"/>
+        <field hadjust="true" col="8" colspan="2" valign="center" align="center" name="Local" displaylabel="false" fontsize="8" row="0" rowspan="2">
+            <value>
+                <translation lang="pt">%plant</translation>
+            </value>
+            <label/>
+        </field>
+        <field hadjust="true" col="11" colspan="1" valign="center" align="center" name="Titulo" displaylabel="false" fontsize="9" row="0" rowspan="2">
+            <value>
+                <translation lang="pt">%title</translation>
+                <translation lang="en">%title</translation>
+            </value>
+            <label>
+                <translation lang="pt">Titulo</translation>
+            </label>
+        </field>
+        <field hadjust="true" col="2" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="1">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="3" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="1">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="4" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="1">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="5" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="1">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="1" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="2">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="2" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="2">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="3" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="2">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="4" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="2">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="5" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="2">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="1" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="3">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="2" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="3">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="3" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="3">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="5" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="3">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="9" valign="center" align="center" name="Data" displaylabel="false" fontsize="8" row="3">
+            <value>
+                <translation lang="pt">Data</translation>
+            </value>
+            <label/>
+        </field>
+        <field hadjust="true" col="10" valign="center" align="center" name="Autor" displaylabel="false" fontsize="8" row="3">
+            <value>
+                <translation lang="pt">Autor</translation>
+                <translation lang="en">Autor</translation>
+            </value>
+            <label/>
+        </field>
+        <field hadjust="true" col="11" valign="center" align="center" name="" displaylabel="true" fontsize="8" row="3" rowspan="1">
+            <value>
+                <translation lang="pt">%draw</translation>
+            </value>
+            <label>
+                <translation lang="pt">Desenho n°</translation>
+            </label>
+        </field>
+        <field hadjust="true" col="12" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="3" rowspan="1">
+            <value>
+                <translation lang="pt">%papel</translation>
+            </value>
+            <label>
+                <translation lang="pt">Form.</translation>
+            </label>
+        </field>
+        <field hadjust="true" col="1" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="4">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="2" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="4">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="3" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="4">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="4" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="4">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="5" valign="center" align="center" name="" displaylabel="true" fontsize="9" row="4">
+            <value/>
+            <label/>
+        </field>
+        <field hadjust="true" col="8" valign="center" align="center" name="" displaylabel="false" fontsize="8" row="4">
+            <value>
+                <translation lang="pt">Des.</translation>
+            </value>
+            <label/>
+        </field>
+        <field hadjust="true" col="9" valign="center" align="center" name="" displaylabel="false" fontsize="8" row="4">
+            <value>
+                <translation lang="pt">%date</translation>
+            </value>
+            <label/>
+        </field>
+        <field hadjust="true" col="10" valign="center" align="center" name="Autor" displaylabel="false" fontsize="8" row="4">
+            <value>
+                <translation lang="pt">%author</translation>
+                <translation lang="en">%author</translation>
+            </value>
+            <label/>
+        </field>
+        <field hadjust="true" col="1" valign="center" align="center" name="Revisao" displaylabel="false" fontsize="8" row="5">
+            <value>
+                <translation lang="pt">REV</translation>
+            </value>
+            <label>
+                <translation lang="pt">Revisao</translation>
+            </label>
+        </field>
+        <field hadjust="true" col="2" valign="center" align="center" name="Descriçao" displaylabel="false" fontsize="8" row="5">
+            <value>
+                <translation lang="pt">Descricao</translation>
+            </value>
+            <label/>
+        </field>
+        <field hadjust="true" col="3" valign="center" align="center" name="" displaylabel="false" fontsize="9" row="5">
+            <value>
+                <translation lang="pt">data</translation>
+            </value>
+            <label/>
+        </field>
+        <field hadjust="true" col="4" valign="center" align="center" name="" displaylabel="false" fontsize="9" row="5">
+            <value>
+                <translation lang="pt">des.</translation>
+            </value>
+            <label/>
+        </field>
+        <field hadjust="true" col="5" valign="center" align="center" name="" displaylabel="false" fontsize="9" row="5">
+            <value>
+                <translation lang="pt">apro.</translation>
+            </value>
+            <label/>
+        </field>
+        <field hadjust="true" col="8" valign="center" align="center" name="" displaylabel="false" fontsize="8" row="5">
+            <value>
+                <translation lang="pt">Apr.</translation>
+            </value>
+            <label/>
+        </field>
+        <field hadjust="true" col="9" valign="center" align="center" name="" displaylabel="true" fontsize="8" row="5">
+            <value>
+                <translation lang="pt">%date2</translation>
+            </value>
+            <label/>
+        </field>
+        <field hadjust="true" col="10" valign="center" align="center" name="" displaylabel="true" fontsize="8" row="5">
+            <value>
+                <translation lang="pt">%autor</translation>
+            </value>
+            <label/>
+        </field>
+        <field hadjust="true" col="11" valign="center" align="center" name="folha" displaylabel="true" fontsize="9" row="5">
+            <value>
+                <translation lang="pt">%folio</translation>
+            </value>
+            <label>
+                <translation lang="pt">Folha</translation>
+            </label>
+        </field>
+    </grid>
+</titleblocktemplate>

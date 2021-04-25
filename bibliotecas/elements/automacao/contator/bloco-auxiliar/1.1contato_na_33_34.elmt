@@ -1,0 +1,25 @@
+<definition version="0.80" hotspot_y="31" width="30" hotspot_x="11" type="element" height="60" link_type="slave">
+    <uuid uuid="{15cccd70-5658-412f-b178-89092ec89c79}"/>
+    <names>
+        <name lang="en">1.1_contato_na_33_34</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">simple</kindInformation>
+        <kindInformation show="1" name="state">NO</kindInformation>
+        <kindInformation show="1" name="number">1</kindInformation>
+    </kindInformations>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <polygon y3="20" x1="-5" closed="false" antialias="true" x3="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-10" y2="10" x2="0"/>
+        <dynamic_text frame="false" text_width="-1" y="-8.5" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" x="2.75" Valignment="AlignTop" z="2" text_from="ElementInfo" uuid="{9abeb071-7a63-4b5b-8096-9b8286832a05}" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line x1="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-20" y2="-10" end1="none" length1="1.5" end2="none" x2="0"/>
+        <text color="#000000" text="33" y="-17" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="1" rotation="0"/>
+        <text color="#000000" text="34" y="18" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="1" rotation="0"/>
+        <terminal y="20" name="" x="0" uuid="{3ca70732-2547-4eb1-af02-2da320e0dd90}" orientation="s"/>
+        <terminal y="-20" name="" x="0" uuid="{0625cf9d-c9b4-4ea5-9bc2-988e7ee75abc}" orientation="n"/>
+    </description>
+</definition>

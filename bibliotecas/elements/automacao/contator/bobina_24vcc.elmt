@@ -1,0 +1,30 @@
+<definition version="0.80" hotspot_y="29" width="60" hotspot_x="43" type="element" height="60" link_type="master">
+    <uuid uuid="{0bb1832e-ec01-4395-9d20-2ad41382a03c}"/>
+    <names>
+        <name lang="en">Bobina 24Vcc</name>
+    </names>
+    <kindInformations>
+        <kindInformation show="1" name="type">coil</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect antialias="false" y="-8" width="28" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-14" height="16" ry="0" rx="0"/>
+        <line x1="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="-20" y2="-8" end1="none" length1="1.5" end2="none" x2="0"/>
+        <dynamic_text frame="false" text_width="-1" y="10" font="Sans Serif,5,-1,5,25,0,0,0,0,0" Halignment="AlignLeft" x="2" Valignment="AlignTop" z="3" text_from="UserText" uuid="{bbe85f68-0e84-463f-b00c-dd434e943fd8}" rotation="0">
+            <text>A2</text>
+        </dynamic_text>
+        <dynamic_text frame="false" text_width="-1" y="-24" font="Sans Serif,5,-1,5,25,0,0,0,0,0" Halignment="AlignLeft" x="2" Valignment="AlignTop" z="4" text_from="UserText" uuid="{5a2d9b08-3582-448e-b0c1-e876794cffbd}" rotation="0">
+            <text>A1</text>
+        </dynamic_text>
+        <line x1="0" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" y1="8" y2="20" end1="none" length1="1.5" end2="none" x2="0"/>
+        <dynamic_text frame="false" text_width="-1" y="-8.1667" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignLeft" x="25" Valignment="AlignTop" z="6" text_from="ElementInfo" uuid="{001d9cd7-0862-44a1-bd97-bfb28ae7f01c}" rotation="0">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <text color="#000000" text="24 Vcc" y="14" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-39" rotation="0"/>
+        <terminal y="-21" name="" x="0" uuid="{f94ca063-be64-4080-8e23-53307fc3f126}" orientation="n"/>
+        <terminal y="21" name="" x="0" uuid="{845cd65c-f47d-476e-8b69-5860068658f9}" orientation="s"/>
+    </description>
+</definition>
