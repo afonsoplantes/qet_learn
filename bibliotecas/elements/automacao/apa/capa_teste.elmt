@@ -1,0 +1,13 @@
+<definition hotspot_x="35" hotspot_y="30" height="50" type="element" width="70" link_type="simple" version="0.80">
+    <uuid uuid="{4173afda-41c4-44e0-88ff-abd2ae4db6ad}"/>
+    <names>
+        <name lang="pt">capa_teste</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect y="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" height="30" ry="0" antialias="false" width="60" x="-30"/>
+        <terminal y="-25" orientation="n" uuid="{4e1adeed-568f-4162-9c32-60522c073399}" name="" x="-5"/>
+        <terminal y="10" orientation="n" uuid="{fa6aed23-68dd-4493-b338-54aacb5a0c0c}" name="" x="-10"/>
+    </description>
+</definition>
