@@ -1,0 +1,55 @@
+<definition type="element" hotspot_x="10" link_type="master" width="20" height="60" hotspot_y="34" version="0.80">
+    <uuid uuid="{e4d9c763-a3c6-4096-b7b6-9efd1fccb9f5}"/>
+    <names>
+        <name lang="it">Int. Aut. Magneto-termico 1P</name>
+        <name lang="cs">Jednopólový jistič</name>
+        <name lang="nl">Lastscheider 1</name>
+        <name lang="ar">قاطع أحدي القطب</name>
+        <name lang="en">Circuit-breaker</name>
+        <name lang="de">Leitungsschutzschalter 1P</name>
+        <name lang="pl">Wyłącznik</name>
+        <name lang="fr">Disjoncteur unipolaire</name>
+    </names>
+    <kindInformations>
+        <kindInformation name="type" show="1">protection</kindInformation>
+    </kindInformations>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <line length2="1.5" length1="1.5" y2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="16" antialias="false" x1="0" end2="none" end1="none" x2="0"/>
+        <polygon y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="3" closed="false" antialias="true" x1="0" y3="-20" x3="-5" x2="0"/>
+        <dynamic_text text_width="-1" y="-46" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignHCenter" x="-40" text_from="ElementInfo" uuid="{4f18ba79-2f81-40eb-b34a-e0fa9b32537f}" frame="false" z="3" Valignment="AlignVCenter">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <dynamic_text text_width="-1" y="-25" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignHCenter" x="-40" text_from="ElementInfo" uuid="{4f18ba79-2f81-40eb-b34a-e0fa9b32537f}" frame="false" z="3" Valignment="AlignVCenter">
+            <text></text>
+            <info_name>manufacturer</info_name>
+        </dynamic_text>
+        <dynamic_text text_width="-1" y="18" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" Halignment="AlignHCenter" x="-40" text_from="ElementInfo" uuid="{4f18ba79-2f81-40eb-b34a-e0fa9b32537f}" frame="false" z="3" Valignment="AlignVCenter">
+            <text></text>
+            <info_name>comment</info_name>
+        </dynamic_text>
+        <arc start="90" angle="-180" y="10.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" x="-4" width="8" height="5"/>
+        <line length2="1.5" length1="1.5" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="8" antialias="false" x1="0" end2="none" end1="none" x2="0"/>
+        <line length2="1.5" length1="1.5" y2="8" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="8" antialias="false" x1="0" end2="none" end1="none" x2="5"/>
+        <line length2="1.5" length1="1.5" y2="8" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="3" antialias="false" x1="5" end2="none" end1="none" x2="5"/>
+        <line length2="1.5" length1="1.5" y2="3" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="3" antialias="false" x1="0" end2="none" end1="none" x2="5"/>
+        <line length2="1.5" length1="1.5" y2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-30" antialias="false" x1="0" end2="none" end1="none" x2="0"/>
+        <line length2="1.5" length1="1.5" y2="-18" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-22" antialias="true" x1="2" end2="none" end1="none" x2="-2"/>
+        <dynamic_text text_width="-1" y="-36" rotation="0" font="Sans Serif,5,-1,5,25,0,0,0,0,0" Halignment="AlignLeft" x="-2" text_from="UserText" uuid="{6fcf35c5-27f9-4bfc-981e-558a8b81f94e}" frame="false" z="12" Valignment="AlignTop">
+            <text>1</text>
+        </dynamic_text>
+        <dynamic_text text_width="-1" y="9" rotation="0" font="Sans Serif,5,-1,5,25,0,0,0,0,0" Halignment="AlignLeft" x="0" text_from="UserText" uuid="{9dcbca2c-150b-4185-b3b0-969bafa07f27}" frame="false" z="13" Valignment="AlignTop">
+            <text>2</text>
+        </dynamic_text>
+        <line length2="1.5" length1="1.5" y2="-18" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-22" antialias="true" x1="-2" end2="none" end1="none" x2="2"/>
+        <dynamic_text text_width="-1" y="-2" rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignHCenter" x="-40" text_from="ElementInfo" uuid="{838aaa47-a755-43e3-9584-95a7de914c0b}" frame="false" z="14" Valignment="AlignVCenter">
+            <text></text>
+            <info_name>designation</info_name>
+        </dynamic_text>
+        <terminal y="-30" name="" x="0" uuid="{08983e58-6f0e-4ead-ad99-413cc7bea782}" orientation="n"/>
+        <terminal y="20" name="" x="0" uuid="{c0c2c517-53bd-4d6e-b3bb-432da1e954e0}" orientation="s"/>
+    </description>
+</definition>

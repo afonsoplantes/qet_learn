@@ -1,0 +1,22 @@
+<definition hotspot_y="9" hotspot_x="9" version="0.80" height="20" type="element" width="20" link_type="simple">
+    <uuid uuid="{e04eecc7-c105-45c9-a2a4-cb98902b9363}"/>
+    <names>
+        <name lang="hu">Keresztezés pont alakzatban</name>
+        <name lang="de">Verbindung</name>
+        <name lang="cs">Bod</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle diameter="4" style="line-style:normal;line-weight:normal;filling:black;color:black" x="-2" antialias="false" y="-2"/>
+        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="2" rotation="0" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" text_from="ElementInfo" uuid="{d1eb16eb-fdc1-4643-99f0-48d99fefe6c7}" x="-11" y="-14.5">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-3" antialias="false" y="-3" height="6" rx="0" width="6"/>
+        <terminal uuid="{28a0bcb1-32bb-42ff-95ab-3f87c9dbe929}" x="0" y="2" name="" orientation="s"/>
+        <terminal uuid="{6070d527-b6d2-4df1-ada4-9c97d09f9198}" x="0" y="-2" name="" orientation="n"/>
+        <terminal uuid="{9b38fcb4-48c5-4239-b598-10eb558188a8}" x="-2" y="0" name="" orientation="w"/>
+        <terminal uuid="{a4cf38cc-cde2-4bee-81c9-152758d25945}" x="2" y="0" name="" orientation="e"/>
+    </description>
+</definition>
