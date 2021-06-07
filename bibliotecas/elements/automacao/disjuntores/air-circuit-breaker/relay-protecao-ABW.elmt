@@ -1,45 +1,41 @@
-<definition hotspot_y="52" hotspot_x="20" version="0.80" height="100" type="element" width="40" link_type="master">
-    <uuid uuid="{9bb5f69c-400a-4ded-a1b0-fcd0ffc22c29}"/>
+<definition version="0.80" link_type="master" hotspot_y="53" hotspot_x="20" type="element" width="40" height="100">
+    <uuid uuid="{3be5a6cd-2980-4e00-848a-10fb0418831b}"/>
     <names>
         <name lang="pt">Unidade de proteção</name>
         <name lang="en">Protection Unit</name>
     </names>
     <kindInformations>
-        <kindInformation show="1" name="type">protection</kindInformation>
+        <kindInformation name="type" show="1">protection</kindInformation>
     </kindInformations>
     <elementInformations/>
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
     <description>
-        <line y2="40" length2="1.5" x2="0" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" y1="36" x1="0"/>
-        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="3" rotation="0" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="false" text_from="ElementInfo" uuid="{4f18ba79-2f81-40eb-b34a-e0fa9b32537f}" x="-40" y="-46">
+        <line y1="36" length1="1.5" x2="0" end2="none" x1="0" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" y2="40"/>
+        <dynamic_text Halignment="AlignHCenter" rotation="0" text_from="ElementInfo" y="-46" uuid="{4f18ba79-2f81-40eb-b34a-e0fa9b32537f}" Valignment="AlignVCenter" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-40" frame="false" text_width="-1" z="3">
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>
-        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="3" rotation="0" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="false" text_from="ElementInfo" uuid="{4f18ba79-2f81-40eb-b34a-e0fa9b32537f}" x="-40" y="18">
+        <dynamic_text Halignment="AlignHCenter" rotation="0" text_from="ElementInfo" y="18" uuid="{4f18ba79-2f81-40eb-b34a-e0fa9b32537f}" Valignment="AlignVCenter" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-40" frame="false" text_width="-1" z="3">
             <text></text>
             <info_name>comment</info_name>
         </dynamic_text>
-        <dynamic_text font="Sans Serif,9,-1,5,50,0,0,0,0,0" z="3" rotation="0" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="false" text_from="ElementInfo" uuid="{4f18ba79-2f81-40eb-b34a-e0fa9b32537f}" x="-40" y="-25">
+        <dynamic_text Halignment="AlignHCenter" rotation="0" text_from="ElementInfo" y="-25" uuid="{4f18ba79-2f81-40eb-b34a-e0fa9b32537f}" Valignment="AlignVCenter" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-40" frame="false" text_width="-1" z="3">
             <text></text>
             <info_name>manufacturer</info_name>
         </dynamic_text>
-        <dynamic_text font="Sans Serif,5,-1,5,25,0,0,0,0,0" z="12" rotation="0" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" text_from="UserText" uuid="{6fcf35c5-27f9-4bfc-981e-558a8b81f94e}" x="-1" y="-52">
-            <text>1</text>
-        </dynamic_text>
-        <dynamic_text font="Sans Serif,5,-1,5,25,0,0,0,0,0" z="13" rotation="0" text_width="-1" Halignment="AlignLeft" Valignment="AlignTop" frame="false" text_from="UserText" uuid="{9dcbca2c-150b-4185-b3b0-969bafa07f27}" x="0" y="29">
-            <text>2</text>
-        </dynamic_text>
-        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" z="14" rotation="0" text_width="-1" Halignment="AlignHCenter" Valignment="AlignVCenter" frame="false" text_from="ElementInfo" uuid="{838aaa47-a755-43e3-9584-95a7de914c0b}" x="-40" y="-2">
+        <line y1="-45" length1="1.5" x2="0" end2="none" x1="0" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" y2="-40"/>
+        <line y1="40" length1="1.5" x2="0" end2="none" x1="0" antialias="false" length2="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" y2="35"/>
+        <rect ry="0" antialias="false" y="-34" rx="0" x="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" width="20" height="25"/>
+        <rect ry="0" antialias="false" y="-40" rx="0" x="-16" style="line-style:normal;line-weight:normal;filling:none;color:black" width="32" height="75"/>
+        <rect ry="0" antialias="false" y="-40" rx="0" x="-16" style="line-style:normal;line-weight:normal;filling:none;color:black" width="32" height="38"/>
+        <text rotation="0" y="-42" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="1" color="#000000" text="R1"/>
+        <text rotation="0" y="42" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="1" color="#000000" text="R2"/>
+        <dynamic_text Halignment="AlignHCenter" rotation="0" text_from="ElementInfo" y="-2" uuid="{838aaa47-a755-43e3-9584-95a7de914c0b}" Valignment="AlignVCenter" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" x="-40" frame="false" text_width="-1" z="14">
             <text></text>
             <info_name>designation</info_name>
         </dynamic_text>
-        <line y2="-40" length2="1.5" x2="0" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" y1="-45" x1="0"/>
-        <line y2="35" length2="1.5" x2="0" length1="1.5" end2="none" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" antialias="false" y1="40" x1="0"/>
-        <rect ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-10" antialias="false" y="-34" height="25" rx="0" width="20"/>
-        <rect ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-16" antialias="false" y="-40" height="75" rx="0" width="32"/>
-        <rect ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-16" antialias="false" y="-40" height="38" rx="0" width="32"/>
-        <terminal uuid="{c0c2c517-53bd-4d6e-b3bb-432da1e954e0}" x="0" y="40" name="" orientation="s"/>
-        <terminal uuid="{08983e58-6f0e-4ead-ad99-413cc7bea782}" x="0" y="-45" name="" orientation="n"/>
+        <terminal name="" y="40" uuid="{c0c2c517-53bd-4d6e-b3bb-432da1e954e0}" orientation="s" x="0"/>
+        <terminal name="" y="-45" uuid="{08983e58-6f0e-4ead-ad99-413cc7bea782}" orientation="n" x="0"/>
     </description>
 </definition>

@@ -1,0 +1,1 @@
+/snap/qelectrotech/current/usr/local/share/qelectrotech
