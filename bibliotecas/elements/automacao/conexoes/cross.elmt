@@ -1,0 +1,29 @@
+<definition type="element" version="0.80" hotspot_x="9" width="20" hotspot_y="9" link_type="terminal" height="20">
+    <uuid uuid="{6779543d-7393-4dee-bdec-cae189df8e48}"/>
+    <names>
+        <name lang="cs">Kříž</name>
+        <name lang="it">Croce</name>
+        <name lang="fr">Croix</name>
+        <name lang="pl">Połączenie 2</name>
+        <name lang="ar">صليب</name>
+        <name lang="de">Kreuz</name>
+        <name lang="en">Cross</name>
+        <name lang="hu">Kereszt alakú</name>
+        <name lang="es">Cruzar</name>
+        <name lang="ru">Пересечение</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <circle style="line-style:normal;line-weight:normal;filling:black;color:black" diameter="2" antialias="true" y="-1" x="-1"/>
+        <dynamic_text frame="false" rotation="0" uuid="{fc5c039b-1fca-40d9-a6ff-a9e1775de38b}" text_from="UserText" y="-9.45" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" x="-0.5" text_width="-1" z="2" Halignment="AlignLeft" Valignment="AlignTop">
+            <text>_</text>
+        </dynamic_text>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-4" length1="1.5" end2="none" x2="4" antialias="false" y2="0" length2="1.5" y1="0" end1="none"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" length1="1.5" end2="none" x2="0" antialias="false" y2="4" length2="1.5" y1="-4" end1="none"/>
+        <terminal uuid="{935e3f1e-3dc0-4b41-8252-6e7ee9f1a3e1}" name="" y="0" x="-4" orientation="w"/>
+        <terminal uuid="{340c983a-1f7e-4939-b844-c50c8e28302d}" name="" y="0" x="4" orientation="e"/>
+        <terminal uuid="{c9b40e74-5d24-4cd5-9dc7-3be318007661}" name="" y="4" x="0" orientation="s"/>
+        <terminal uuid="{667d83d2-8840-40ec-bf41-8dc659926fe2}" name="" y="-4" x="0" orientation="n"/>
+    </description>
+</definition>
