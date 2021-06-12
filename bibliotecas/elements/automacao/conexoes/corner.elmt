@@ -1,25 +1,37 @@
-<definition link_type="terminal" width="20" height="20" hotspot_y="7" type="element" version="0.80" hotspot_x="11">
-    <uuid uuid="{95725a69-d9bf-4186-938c-1f1b9256530b}"/>
+<definition hotspot_x="11" link_type="simple" width="20" type="element" height="20" hotspot_y="7" version="0.80">
+    <uuid uuid="{d2f7e001-374f-445c-9974-db13250a2c84}"/>
     <names>
-        <name lang="it">Angolo</name>
-        <name lang="fr">Coin</name>
-        <name lang="pl">Narożnik</name>
         <name lang="ar">ركن</name>
         <name lang="es">Esquina</name>
-        <name lang="ru">Угол</name>
-        <name lang="en">Corner</name>
-        <name lang="de">Ecke</name>
         <name lang="cs">Roh</name>
+        <name lang="it">Angolo</name>
+        <name lang="ru">Угол</name>
+        <name lang="pl">Narożnik</name>
         <name lang="hu">Sarok</name>
+        <name lang="en">Corner</name>
+        <name lang="fr">Coin</name>
+        <name lang="de">Ecke</name>
     </names>
-    <elementInformations/>
+    <elementInformations>
+        <elementInformation name="designation" show="1"></elementInformation>
+        <elementInformation name="quantity" show="1"></elementInformation>
+        <elementInformation name="supplier" show="1"></elementInformation>
+        <elementInformation name="machine_manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="unity" show="1"></elementInformation>
+        <elementInformation name="comment" show="1"></elementInformation>
+        <elementInformation name="description" show="1"></elementInformation>
+        <elementInformation name="label" show="1"></elementInformation>
+        <elementInformation name="manufacturer" show="1"></elementInformation>
+        <elementInformation name="manufacturer_reference" show="1"></elementInformation>
+        <elementInformation name="plant" show="1"></elementInformation>
+    </elementInformations>
     <informations></informations>
     <description>
-        <dynamic_text rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="-0.5" z="1" Halignment="AlignLeft" Valignment="AlignTop" text_from="UserText" frame="false" y="-5.45" uuid="{9b8dd22d-096a-4989-b6f7-1de9e0339f53}">
+        <dynamic_text z="1" Valignment="AlignTop" text_from="UserText" frame="false" uuid="{9b8dd22d-096a-4989-b6f7-1de9e0339f53}" Halignment="AlignLeft" rotation="0" x="-0.5" text_width="-1" y="-5.45" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal">
             <text>_</text>
         </dynamic_text>
-        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-4" y2="0" y1="0" antialias="false" x2="0" x3="0" y3="4" closed="false"/>
-        <terminal name="" orientation="w" x="-4" y="0" uuid="{e1ea331a-7456-47f0-b991-0a2299d3023c}"/>
-        <terminal name="" orientation="s" x="0" y="4" uuid="{eacfd29f-4682-41c2-9783-cedb80773f13}"/>
+        <polygon y2="0" closed="false" antialias="false" x3="0" y1="0" x1="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" x2="0" y3="4"/>
+        <terminal orientation="w" name="" uuid="{e1ea331a-7456-47f0-b991-0a2299d3023c}" x="-4" y="0"/>
+        <terminal orientation="s" name="" uuid="{eacfd29f-4682-41c2-9783-cedb80773f13}" x="0" y="4"/>
     </description>
 </definition>
